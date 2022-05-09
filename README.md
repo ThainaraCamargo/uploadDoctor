@@ -1,5 +1,5 @@
-#✔ uploadDoctor# DoctorCare #
-Site responsivo Doutor
+# ✔ DoctorCare #
+Site responsivo Doctor
 
 ##  Sobre o projeto ##
 - Desenvolvido com Html, CSS e Javascript, DoctorCare é um site funcional responsivo.
